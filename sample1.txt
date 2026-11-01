@@ -1,0 +1,139 @@
+INFS 3201
+Web Technologies II
+Course Information
+Class Selection
+Select a class option
+6 options
+Option
+Status
+Session
+Class
+Meeting Dates
+Days and Times
+Room
+Instructor
+Seats
+1
+Open
+Regular Academic Session
+Lecture - Class 3413 -Section 4
+Laboratory - Class 3414 -Section 5
+25/08/2026 - 03/12/2026
+Monday
+09:00 to 10:00
+Wednesday
+09:00 to 10:00
+Sunday
+08:00 to 11:00
+01.1.06
+01.1.06
+10.2.32
+Robert Ford
+Robert Ford
+Robert Ford
+Open Seats 10 of 72
+Open Seats 5 of 24
+2
+Open
+Regular Academic Session
+Lecture - Class 3413 -Section 4
+Laboratory - Class 3415 -Section 6
+25/08/2026 - 03/12/2026
+Monday
+09:00 to 10:00
+Wednesday
+09:00 to 10:00
+Tuesday
+08:00 to 11:00
+01.1.06
+01.1.06
+10.2.32
+Robert Ford
+Robert Ford
+Ahmad Mansour
+Open Seats 10 of 72
+Open Seats 2 of 24
+3
+Open
+Regular Academic Session
+Lecture - Class 3413 -Section 4
+Laboratory - Class 3773 -Section 8
+25/08/2026 - 03/12/2026
+Monday
+09:00 to 10:00
+Wednesday
+09:00 to 10:00
+Tuesday
+14:00 to 17:00
+01.1.06
+01.1.06
+10.2.33
+Robert Ford
+Robert Ford
+Ahmad Mansour
+Open Seats 10 of 72
+Open Seats 3 of 24
+4
+Wait List
+Regular Academic Session
+Lecture - Class 3410 -Section 1
+Laboratory - Class 3411 -Section 2
+25/08/2026 - 03/12/2026
+Tuesday
+11:00 to 12:00
+Sunday
+11:00 to 12:00
+Thursday
+08:00 to 11:00
+Thursday
+08:00 to 11:00
+01.1.06
+01.1.06
+10.2.32
+10.1.17
+Seifeddine Bouallegue
+Seifeddine Bouallegue
+Ahmad Mansour
+Ahmad Mansour
+Waitlist Available Places 30 of 30
+Waitlist Available Places 15 of 15
+5
+Wait List
+Regular Academic Session
+Lecture - Class 3410 -Section 1
+Laboratory - Class 3412 -Section 3
+25/08/2026 - 03/12/2026
+Tuesday
+11:00 to 12:00
+Sunday
+11:00 to 12:00
+Monday
+14:00 to 17:00
+01.1.06
+01.1.06
+10.2.32
+Seifeddine Bouallegue
+Seifeddine Bouallegue
+Ahmad Mansour
+Waitlist Available Places 30 of 30
+Open Seats 2 of 24
+6
+Wait List
+Regular Academic Session
+Lecture - Class 3410 -Section 1
+Laboratory - Class 3771 -Section 7
+25/08/2026 - 03/12/2026
+Tuesday
+11:00 to 12:00
+Sunday
+11:00 to 12:00
+Wednesday
+14:00 to 17:00
+01.1.06
+01.1.06
+10.2.17
+Seifeddine Bouallegue
+Seifeddine Bouallegue
+Ahmad Mansour
+Waitlist Available Places 30 of 30
+Open Seats 1 of 26
