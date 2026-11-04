@@ -1,5 +1,5 @@
-export async function parseMeetings(meetings) {
+export function parseMeetings(meetings) {
     return meetings.map(meeting => {
-        return meeting.match(/^\w\n\d\d:\d\d\n\d\d:\d\d$/gm)
+        return meeting.matchAll(/(\w+)\s+(\d{2}):(\d{2}) to (\d{2}):(\d{2})/g)
     })
 }
