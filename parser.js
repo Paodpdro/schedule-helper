@@ -84,3 +84,24 @@ export function conflicts(course1, course2) {
     }
     return results;
 }
+
+export function scheduleBuilder(courses) {
+    let results = [];
+    
+    function backtrack(index, currentSchedule) {
+        if (index === courses.length) {
+            results.push([...currentSchedule]);
+            return;
+        }
+    
+        for (let option of courses[index]) {
+            if(!currentSchedule.some(existingOption => optionClash(existingOption, option))) {
+                currentSchedule.push(option);
+                backtrack(index + 1, currentSchedule);
+                currentSchedule.pop();
+            }
+        }
+    }
+    backtrack(0, [])
+    return results;
+}
