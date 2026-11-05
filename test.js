@@ -23,4 +23,19 @@ const course2 = parser.parseCourse(text2);
 //     console.log(t.name, result === t.expected ? "PASS" : "FAIL", `(got ${result}, expected ${t.expected})`);
 // }
 
-console.log(parser.scheduleBuilder(course1, course2));
+const A = [
+  { course: "A", option: 1, status: "Open", meetings: [{ day: "Monday",  start: 540, end: 600 }] },
+  { course: "A", option: 2, status: "Open", meetings: [{ day: "Tuesday", start: 540, end: 600 }] },
+];
+const B = [
+  { course: "B", option: 1, status: "Open", meetings: [{ day: "Monday", start: 570, end: 630 }] },
+];
+const C = [
+  { course: "C", option: 1, status: "Open", meetings: [{ day: "Monday", start: 600, end: 660 }] },
+];
+// console.log(JSON.stringify((parser.scheduleBuilder([course1, course2])) , null, 2));
+// console.log((parser.scheduleBuilder([course1, course2])).length);
+const results = parser.scheduleBuilder([course1, course2]);
+console.log(results.length);                              // 24
+console.log(results.filter(s => !s.hasWaitList).length);  // Open-only schedules
+console.log(results.filter(s => s.hasWaitList).length);   // schedules with a wait list

@@ -90,7 +90,11 @@ export function scheduleBuilder(courses) {
     
     function backtrack(index, currentSchedule) {
         if (index === courses.length) {
-            results.push([...currentSchedule]);
+            const hasWaitList = currentSchedule.some(option => option.status === "Wait List");
+            results.push({
+                options: [...currentSchedule],
+                hasWaitList: hasWaitList
+            });
             return;
         }
     
